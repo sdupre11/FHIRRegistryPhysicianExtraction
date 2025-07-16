@@ -24,3 +24,15 @@ print("FHIR Patient resource imported successfully")
 #.env
 #.DS_Store
 
+#stage and commit my files
+#in terminal run... git add .
+#in terminal run... git commit -m "Initial project commit"
+#Go to Github.com and create the new repo, do not click on "Add a README file"
+#Follow the instructions to push an existing repository from the command line
+
+#Save installed packages for environment recreation through a requirements.txt file
+#in terminal run... pip freeze > requirements.txt
+#in terminal run...
+#git add requirements.txt
+#git commit -m "Adding requirements file"
+#git push
